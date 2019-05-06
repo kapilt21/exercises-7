@@ -1,2 +1,2 @@
-# exercises-7
+# b-7
 funkcje rekurencja
